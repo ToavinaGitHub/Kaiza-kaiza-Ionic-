@@ -1,0 +1,29 @@
+#pdp {
+    border-radius: 50%;
+    width: 30vw; /* 20% de la largeur de l'écran */
+    height: 30vw; /* 20% de la largeur de l'écran */
+    margin-left: 10vw; /* 10% de la largeur de l'écran à gauche */
+    margin-bottom: -5vh; /* -5% de la hauteur de l'écran vers le bas */
+    margin-top: 10vh; /* 10% de la hauteur de l'écran vers le haut */
+    
+  }
+  
+#profile{
+    background-color: black;
+    display: 'flex'; 
+    align-items: 'flex-end';
+    justify-content: 'center';
+    position: relative;
+}
+#profile-toolbar{
+    margin-top: 5vh;
+    text-align: center;
+}
+#profile-grid   {
+    margin-top: 5vh;
+}
+#profile-name{
+    color: white;
+    float: right;
+    margin-top: 30vw;
+}

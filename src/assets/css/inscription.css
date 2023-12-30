@@ -1,0 +1,77 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+label {
+    font-size: 14px;
+    margin-bottom: 8px;
+    display: block;
+}
+
+input, select {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 16px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    box-sizing: border-box;
+    font-size: 14px;
+}
+
+#submit{
+    background-color: #4caf50;
+    color: #fff;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 14px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#submit:hover {
+    background-color: #45a049;
+}
+#inscForm{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 5%;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-top: 20%;
+}
+
+
+
+#login-ecran {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #1a1a1a; /* Couleur de fond sombre */
+  }
+  
+  #login-logo {
+    width: 20vw;
+    height: 20vw;
+    margin: 0 auto; /* Centre le logo horizontalement */
+    display: block; /* Pour centrer le logo avec margin:auto */
+  }
+  
+  ion-button[href='/tab1'] {
+    color: #3498db; /* Couleur du lien vers la création de compte */
+  }
+  
+  ion-button[href='/tab1']:hover {
+    text-decoration: underline;
+  }

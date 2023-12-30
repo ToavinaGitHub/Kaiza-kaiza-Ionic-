@@ -1,0 +1,11 @@
+.btn-plus{
+    float:right;
+  }
+  .card-title{
+    text-align: center;
+    padding: 2%;
+  }
+
+  ion-card {
+    padding: 1%;
+  }
