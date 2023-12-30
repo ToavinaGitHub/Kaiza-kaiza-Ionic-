@@ -1,0 +1,13 @@
+.search-bar {
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #3880ff;
+    position: sticky; 
+  } 
+  
+  .search-bar ion-input {
+    flex: 1; /* Permet à l'IonInput de prendre autant d'espace que possible */
+  }
+ 

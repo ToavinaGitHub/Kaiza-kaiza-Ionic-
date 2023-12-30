@@ -1,0 +1,9 @@
+
+  ion-chip ion-label{
+    color: white;
+  }
+  ion-chip{
+    background-color: #3880ff;
+    float: right;
+  }
+  
