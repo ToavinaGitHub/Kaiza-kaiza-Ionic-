@@ -16,9 +16,9 @@ const Message : React.FC = () => {
                             <div className="unread-indicator"></div>
                         </div>
                         <IonLabel>
-                            <strong>Carole Randrianarisoa</strong>
+                            <strong>Toavina Razakarivony</strong>
                             <br/>
-                            <IonNote>Je t'aime aussii Toavina!Bisouuuu</IonNote>
+                            <IonNote>Bonjour ,recu!Mercii</IonNote>
                         </IonLabel>
                         <div className="metadata-end-wrapper" slot="end">
                             <IonNote color="medium">06:11</IonNote>
@@ -32,7 +32,7 @@ const Message : React.FC = () => {
                         <IonLabel>
                             <strong>Cathie Andrianirina</strong>
                             <br/>
-                            <IonNote>Je t'aime aussii bebe !Bonne nuit</IonNote>
+                            <IonNote>Bonne soirée</IonNote>
                         </IonLabel>
                         <div className="metadata-end-wrapper" slot="end">
                             <IonNote color="medium">12:67</IonNote>
@@ -44,9 +44,9 @@ const Message : React.FC = () => {
                             
                         </div>
                         <IonLabel>
-                            <strong>Agnes Ralaialitiana</strong>
+                            <strong>Agnes Randrianarivony</strong>
                             <br/>
-                            <IonNote>Je t'aime aussii babe!Bisouuuu</IonNote>
+                            <IonNote>Oke A demain</IonNote>
                         </IonLabel>
                         <div className="metadata-end-wrapper" slot="end">
                             <IonNote color="medium">06:11</IonNote>
